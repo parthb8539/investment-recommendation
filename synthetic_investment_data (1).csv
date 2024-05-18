@@ -1,0 +1,1001 @@
+Age,Income,Monthly_Expenses,Existing_Investments,Financial_Goals,Risk_Tolerance,Family_Size,Debt_Obligations,Hobbies_Interests,Investment_Preferences
+58,62658,5601,130978,Buying a House,High,2,12730,Travel,Real Estate
+48,49823,5272,120536,Buying a House,Medium,2,-8294,Gaming,Stocks
+34,98776,4122,173086,Buying a House,Low,4,14460,Reading,ETFs
+62,74173,5959,108052,Education,High,1,33087,Gaming,ETFs
+27,78479,2643,118713,Buying a House,Low,3,-722,Cooking,Real Estate
+40,93157,3545,8074,Education,Low,2,10480,Reading,Stocks
+58,74824,2683,50586,Buying a House,Low,1,24390,Reading,Stocks
+38,84028,5173,10864,Education,High,1,-2448,Gaming,Stocks
+42,91317,3126,128630,Buying a House,Medium,2,14893,Sports,Mutual Funds
+30,86335,3743,117434,Retirement,Low,1,31408,Reading,ETFs
+30,80719,4926,115676,Retirement,Low,2,40430,Cooking,ETFs
+43,110662,5047,55928,Retirement,Low,2,22902,Sports,Mutual Funds
+55,99839,2639,51352,Retirement,Medium,2,10735,Sports,Bonds
+59,73284,5584,110472,Buying a House,Medium,3,10398,Sports,Mutual Funds
+43,56806,4683,66530,Retirement,High,2,21449,Reading,Stocks
+22,87772,2377,48979,Education,Medium,4,22809,Sports,Mutual Funds
+41,79317,2008,74580,Retirement,High,1,38579,Gaming,Stocks
+21,109179,3976,66962,Retirement,High,3,29708,Sports,Real Estate
+43,94749,5275,56663,Retirement,High,1,20841,Cooking,Stocks
+63,90284,5313,38711,Buying a House,High,3,16647,Travel,ETFs
+49,75259,4534,122434,Retirement,High,4,50147,Cooking,Mutual Funds
+57,57486,4073,177802,Education,Low,3,26265,Reading,Stocks
+21,71040,4767,98049,Retirement,Medium,3,13312,Sports,Bonds
+40,84536,2717,111121,Retirement,Low,3,17753,Sports,Real Estate
+52,40408,6530,126818,Retirement,High,1,11225,Gaming,Bonds
+31,99834,6510,118328,Education,Medium,2,-4045,Sports,Bonds
+41,116340,4643,57654,Retirement,Low,1,23126,Cooking,Bonds
+63,36101,4295,185992,Education,Low,2,37824,Reading,Real Estate
+44,46995,3382,62134,Education,High,1,3694,Travel,Real Estate
+68,79593,4793,132404,Retirement,Low,4,20552,Sports,Real Estate
+46,63348,2963,126509,Education,Low,4,12930,Travel,Real Estate
+61,80218,664,2077,Buying a House,Low,3,25215,Sports,Bonds
+47,73566,-71,82057,Retirement,Low,4,18276,Reading,ETFs
+35,54523,2800,102831,Retirement,Low,3,6399,Cooking,ETFs
+34,100768,4234,106657,Education,High,2,10188,Reading,Real Estate
+66,84290,4497,115071,Education,High,4,11696,Travel,Mutual Funds
+63,63805,3269,137883,Retirement,Low,2,33443,Sports,Stocks
+22,105100,4212,99624,Buying a House,High,1,32932,Travel,Mutual Funds
+56,64831,3588,117730,Education,High,2,16886,Cooking,Mutual Funds
+26,50163,2501,97752,Education,Medium,1,32278,Reading,Mutual Funds
+40,78670,3919,49133,Buying a House,Low,2,18268,Travel,ETFs
+28,82063,5219,101620,Buying a House,High,2,16733,Travel,Stocks
+58,85638,2568,137454,Retirement,High,4,20571,Cooking,Mutual Funds
+37,88927,2569,155439,Buying a House,Low,2,22848,Sports,Real Estate
+23,85322,2396,126865,Retirement,Medium,4,14445,Travel,ETFs
+44,84509,1095,166717,Buying a House,Low,4,20218,Cooking,Real Estate
+33,63524,3279,120943,Education,Medium,3,27873,Sports,Real Estate
+69,61385,5071,143193,Retirement,Low,3,21295,Sports,Mutual Funds
+28,89847,4260,146869,Retirement,Low,1,20427,Reading,Real Estate
+45,79869,3746,88832,Retirement,Low,2,24941,Cooking,Stocks
+21,91404,4193,136300,Buying a House,Low,1,26667,Sports,Real Estate
+39,40854,3266,52967,Education,Medium,2,19373,Reading,Mutual Funds
+47,64984,1078,117490,Retirement,Medium,3,15258,Gaming,Real Estate
+66,113140,5175,128851,Retirement,High,3,21892,Cooking,ETFs
+26,86050,5606,152554,Retirement,Low,2,4060,Gaming,ETFs
+63,80911,2907,141037,Retirement,Medium,2,17896,Sports,ETFs
+27,89158,3773,153205,Education,Medium,3,-4715,Cooking,Bonds
+66,119169,3644,95030,Buying a House,Medium,3,3242,Reading,ETFs
+54,114960,4526,82730,Education,Low,1,1738,Sports,ETFs
+33,43409,6534,86255,Retirement,High,3,30473,Cooking,Bonds
+36,50789,5739,113314,Education,Medium,2,20139,Cooking,ETFs
+55,42731,3434,9562,Retirement,Low,1,7379,Gaming,Mutual Funds
+69,60057,4813,166587,Buying a House,Medium,2,24910,Sports,ETFs
+59,76098,5881,102193,Buying a House,Medium,4,29886,Reading,ETFs
+23,79840,4612,79249,Buying a House,High,1,25084,Reading,Bonds
+21,44390,3992,-26485,Retirement,Medium,2,18112,Sports,Mutual Funds
+25,37652,4669,98159,Education,Medium,3,22324,Sports,Real Estate
+61,59704,2945,90076,Buying a House,Low,4,29014,Travel,Stocks
+23,93323,3164,55147,Retirement,Low,2,15307,Gaming,Mutual Funds
+48,96807,2403,66347,Retirement,High,1,20298,Sports,Real Estate
+37,109116,4460,98668,Education,Low,2,17428,Sports,Mutual Funds
+45,74353,3802,70588,Buying a House,Low,4,3865,Travel,Real Estate
+63,91563,2765,128593,Retirement,High,1,29165,Travel,Real Estate
+53,95197,3753,62560,Education,Medium,4,40572,Cooking,Mutual Funds
+29,65062,4704,107730,Buying a House,High,2,11262,Reading,Bonds
+55,82756,6872,159002,Education,Low,3,29626,Gaming,Mutual Funds
+33,88174,5518,98170,Education,High,3,11580,Cooking,Mutual Funds
+50,56816,573,117798,Retirement,Medium,2,21327,Sports,Real Estate
+67,107841,4358,114632,Retirement,High,2,35080,Travel,Stocks
+34,74223,6143,100399,Retirement,Low,2,14795,Reading,Real Estate
+27,76740,1993,96649,Education,Low,1,19853,Cooking,ETFs
+33,56053,4827,71431,Retirement,High,4,1984,Reading,Mutual Funds
+42,59411,3645,107550,Education,Medium,4,13357,Travel,Mutual Funds
+59,31069,5725,85836,Education,High,4,937,Cooking,Bonds
+40,76103,4606,177304,Retirement,Medium,2,24291,Cooking,Real Estate
+35,125113,2673,140557,Buying a House,Medium,4,28316,Reading,Bonds
+64,54627,3698,27360,Buying a House,High,2,17783,Travel,Mutual Funds
+37,134523,3787,30142,Buying a House,Medium,1,22858,Sports,Real Estate
+66,103285,3815,93477,Education,Low,3,16742,Cooking,Real Estate
+43,65528,5678,80234,Education,High,2,27405,Sports,ETFs
+45,75545,2736,90840,Education,Medium,2,21294,Travel,ETFs
+44,72297,5504,132558,Retirement,Low,3,143,Cooking,Stocks
+64,109123,3546,115786,Education,High,3,29399,Cooking,ETFs
+60,85340,4335,115281,Retirement,Low,1,16104,Sports,Real Estate
+48,98639,4108,172309,Retirement,Low,4,7296,Gaming,ETFs
+34,82163,3967,30555,Buying a House,Low,2,15610,Sports,Stocks
+64,72760,3979,105196,Buying a House,Medium,4,979,Sports,Mutual Funds
+20,81528,6186,71047,Buying a House,High,2,7501,Gaming,ETFs
+44,66861,5263,171771,Retirement,High,1,21429,Travel,Real Estate
+26,45955,3455,-10467,Retirement,Medium,3,22267,Travel,Mutual Funds
+28,91273,6374,-8274,Retirement,High,1,23064,Cooking,Real Estate
+43,44976,4412,115231,Education,Low,3,20032,Reading,Mutual Funds
+20,69623,4536,156314,Retirement,High,4,13071,Reading,Real Estate
+63,66202,2744,138662,Buying a House,Medium,4,19455,Cooking,ETFs
+27,87867,3253,59950,Buying a House,Low,1,15627,Reading,ETFs
+43,106294,2967,175321,Retirement,Medium,3,3742,Sports,Stocks
+30,99099,4129,38426,Retirement,Low,1,12275,Sports,Mutual Funds
+36,88448,4958,165374,Buying a House,Low,3,28895,Gaming,Stocks
+27,62402,4550,45038,Retirement,High,3,35882,Gaming,Bonds
+54,71330,6382,82408,Buying a House,Low,4,26512,Cooking,ETFs
+54,68414,2668,131963,Education,Medium,4,35436,Cooking,Mutual Funds
+52,65594,4172,26689,Buying a House,High,3,20853,Cooking,Stocks
+24,66950,2075,173451,Education,Medium,3,37423,Sports,Stocks
+61,66417,2617,82102,Retirement,Low,3,40544,Reading,Bonds
+58,65531,5896,106863,Retirement,Medium,4,2665,Cooking,Stocks
+60,94037,3305,158110,Education,Medium,4,22214,Cooking,Real Estate
+47,53907,2794,60343,Retirement,Low,2,20864,Sports,ETFs
+26,60410,805,153040,Education,High,3,15758,Sports,Stocks
+28,43331,2779,182026,Retirement,Medium,2,24919,Sports,Stocks
+27,103309,3692,67221,Buying a House,Low,3,20411,Reading,Bonds
+31,59069,1963,168469,Retirement,High,4,12645,Cooking,Real Estate
+53,88215,3605,11971,Buying a House,High,2,19733,Travel,Stocks
+52,84506,5905,119480,Buying a House,High,2,32045,Travel,ETFs
+67,101376,2939,38570,Education,Medium,1,21825,Cooking,ETFs
+42,70799,2584,147128,Retirement,Medium,3,26269,Cooking,Stocks
+43,56049,2314,143022,Education,Medium,4,17229,Cooking,Real Estate
+56,43885,2287,203868,Retirement,High,1,24520,Cooking,ETFs
+54,19307,4803,171064,Buying a House,Medium,1,7907,Reading,ETFs
+63,78227,4073,91711,Buying a House,Low,3,15002,Travel,Real Estate
+59,90509,5435,45912,Retirement,Medium,1,18973,Gaming,Real Estate
+41,84433,7029,128284,Retirement,Medium,3,7236,Travel,Stocks
+46,44404,1254,96963,Education,High,1,11697,Travel,Mutual Funds
+54,95776,4570,177557,Retirement,Medium,3,23131,Sports,Bonds
+20,61035,2322,-8319,Retirement,Low,4,21298,Cooking,Mutual Funds
+54,56861,5183,209402,Retirement,High,3,28063,Cooking,Mutual Funds
+56,60587,3592,126599,Education,Low,3,13994,Cooking,ETFs
+66,76568,4040,59349,Retirement,High,2,20576,Sports,Real Estate
+33,45305,2075,136699,Buying a House,High,4,13281,Reading,ETFs
+22,74259,3360,164871,Education,Medium,4,27061,Reading,Bonds
+20,83588,4134,105717,Education,Low,4,31907,Gaming,Stocks
+24,97146,6034,11753,Buying a House,High,1,24833,Reading,Bonds
+45,78519,2808,85307,Buying a House,Medium,2,30611,Reading,ETFs
+33,48207,3173,151969,Buying a House,High,4,20324,Cooking,ETFs
+58,77977,5416,124833,Retirement,High,1,28055,Travel,ETFs
+46,53794,2710,92174,Buying a House,High,1,20754,Reading,ETFs
+28,52641,5713,165415,Retirement,High,1,9750,Reading,Mutual Funds
+34,47745,3986,136965,Education,High,2,22467,Sports,Stocks
+34,36774,4454,140816,Education,High,1,10047,Gaming,Mutual Funds
+45,63656,4551,79468,Buying a House,Medium,2,43391,Sports,ETFs
+61,97577,3075,74630,Retirement,High,3,16659,Cooking,Real Estate
+32,120129,4584,15002,Buying a House,Low,1,26450,Travel,Mutual Funds
+51,63528,2841,87030,Buying a House,Medium,4,19875,Gaming,ETFs
+58,96722,3246,146769,Retirement,Low,1,7663,Sports,ETFs
+68,67108,4838,89795,Buying a House,High,3,1014,Reading,Stocks
+51,41985,4440,122276,Education,Low,3,27490,Reading,Bonds
+23,89018,3887,155559,Buying a House,High,1,35493,Gaming,Mutual Funds
+49,79696,2111,118641,Retirement,High,3,12651,Reading,Mutual Funds
+56,111360,2486,123525,Retirement,Medium,2,3433,Sports,Mutual Funds
+42,44306,4415,32108,Education,Medium,2,16748,Sports,ETFs
+58,130920,5098,83871,Retirement,High,1,10628,Reading,Stocks
+64,106834,2335,186331,Retirement,Medium,2,13496,Reading,ETFs
+34,74641,2740,105189,Education,Low,2,26103,Cooking,ETFs
+62,69027,4201,194836,Buying a House,Medium,4,19495,Travel,Real Estate
+48,60683,4169,63844,Education,Medium,1,11704,Gaming,Stocks
+55,77194,1564,111697,Buying a House,Low,3,25885,Sports,Mutual Funds
+32,71321,4242,80866,Education,Medium,1,26668,Gaming,Bonds
+51,85275,3102,129599,Buying a House,High,2,16629,Cooking,Mutual Funds
+26,69112,6461,144750,Education,Low,4,21379,Sports,ETFs
+41,103299,4373,130123,Buying a House,High,1,25205,Cooking,Stocks
+47,77500,4632,152092,Education,Low,1,24261,Cooking,Stocks
+21,69863,4671,99341,Buying a House,High,2,20406,Reading,Stocks
+61,95485,2179,90473,Education,High,2,34325,Gaming,Real Estate
+64,42549,6915,12090,Retirement,Medium,1,25826,Gaming,Mutual Funds
+25,81819,1565,131922,Buying a House,High,2,15493,Reading,Real Estate
+47,75511,5193,108609,Education,Medium,2,15553,Gaming,Bonds
+47,46782,4927,96604,Buying a House,Low,2,14419,Reading,ETFs
+63,40829,3284,90459,Buying a House,High,2,26321,Sports,Real Estate
+63,95206,4999,98156,Education,High,2,13772,Cooking,Real Estate
+39,94255,3523,88188,Buying a House,Low,4,15751,Cooking,ETFs
+49,78451,2986,73598,Education,Low,2,30580,Gaming,Stocks
+30,109333,4704,111979,Retirement,High,3,21916,Travel,ETFs
+47,83819,2490,124207,Buying a House,Low,1,31985,Cooking,Mutual Funds
+44,99996,3663,61471,Retirement,Medium,4,27980,Reading,ETFs
+58,83406,3108,79963,Buying a House,Low,4,8233,Travel,Stocks
+52,69483,3496,89768,Buying a House,Low,2,18978,Travel,ETFs
+20,53849,4649,100240,Buying a House,High,1,29899,Cooking,Real Estate
+46,62931,3108,93590,Education,Medium,3,7778,Cooking,Bonds
+32,69857,3711,132986,Retirement,Low,2,24197,Cooking,Real Estate
+60,102263,3245,17381,Buying a House,Medium,1,19607,Reading,Bonds
+22,90398,6165,26248,Education,Medium,2,2452,Travel,ETFs
+58,81606,4513,109678,Buying a House,Medium,2,21196,Gaming,Mutual Funds
+25,92400,4330,69865,Education,High,2,11625,Reading,ETFs
+27,85547,5025,144212,Buying a House,Low,2,8323,Sports,Stocks
+46,80238,3108,158490,Retirement,High,2,20091,Cooking,ETFs
+28,45026,5288,111687,Retirement,Low,2,691,Travel,Bonds
+56,97783,4519,46401,Buying a House,Low,2,13257,Reading,Real Estate
+52,65829,1658,152729,Education,High,3,45511,Sports,Mutual Funds
+61,96770,1857,109945,Buying a House,Medium,4,26502,Reading,ETFs
+63,98704,3141,25653,Education,Medium,3,11185,Reading,ETFs
+43,61599,2018,30074,Buying a House,Low,2,34041,Gaming,Real Estate
+34,93994,3642,175847,Education,High,2,10079,Gaming,Mutual Funds
+51,67780,2479,167556,Retirement,Medium,3,14463,Reading,ETFs
+51,67899,3853,-25857,Buying a House,Medium,3,8511,Sports,ETFs
+43,80149,6117,32110,Retirement,Low,4,22560,Travel,Bonds
+60,80689,3925,157042,Retirement,Low,3,33686,Travel,Bonds
+68,75771,3545,99075,Buying a House,High,4,10009,Cooking,Stocks
+68,48314,4582,135092,Buying a House,Low,2,-604,Cooking,Real Estate
+31,72571,2955,96902,Education,Medium,1,30909,Travel,Mutual Funds
+58,120569,5265,132724,Education,Medium,1,35538,Reading,ETFs
+21,19319,4742,100291,Retirement,Medium,1,49,Reading,ETFs
+22,92394,4058,78119,Education,Medium,1,24600,Gaming,Stocks
+68,96142,4231,152937,Education,High,2,22265,Gaming,ETFs
+56,47833,7062,110102,Buying a House,High,1,12125,Cooking,Real Estate
+68,65611,5413,132619,Education,Low,3,6056,Travel,Stocks
+36,54985,7299,107872,Retirement,Low,3,29917,Reading,Real Estate
+68,112079,4798,75682,Education,Low,1,21790,Travel,Stocks
+21,97060,1792,180419,Retirement,High,3,22544,Sports,ETFs
+21,98028,3606,117748,Buying a House,Medium,4,13782,Travel,Stocks
+47,77412,1449,82247,Retirement,Low,2,11980,Sports,Bonds
+42,101241,4792,163916,Education,Medium,1,-4549,Gaming,Mutual Funds
+56,74835,5118,33958,Buying a House,Low,1,17719,Gaming,ETFs
+51,102183,2671,211814,Education,Low,2,34388,Cooking,Mutual Funds
+52,72026,3016,91042,Buying a House,Low,3,11097,Travel,ETFs
+20,61415,4223,36599,Buying a House,Low,2,4775,Travel,Mutual Funds
+38,111219,2202,195297,Education,Low,2,24356,Sports,Bonds
+21,74583,2090,76841,Education,Medium,3,26200,Gaming,Mutual Funds
+63,57024,5857,112162,Buying a House,Low,2,14140,Sports,Stocks
+45,56807,4172,135884,Buying a House,Medium,3,16512,Gaming,Mutual Funds
+51,56868,3162,159208,Education,High,3,22639,Sports,ETFs
+25,91888,1461,114988,Retirement,Low,2,18444,Gaming,Real Estate
+51,73022,5278,67634,Education,Medium,4,30001,Sports,Mutual Funds
+23,120959,2973,110949,Buying a House,High,3,44372,Gaming,Mutual Funds
+30,98723,6791,79034,Education,High,2,2908,Sports,Mutual Funds
+36,80142,5288,112450,Retirement,High,3,32297,Travel,ETFs
+57,103077,2787,181407,Education,Medium,4,21052,Cooking,Mutual Funds
+43,65089,2926,137796,Buying a House,Low,4,33882,Sports,ETFs
+24,37904,6582,110332,Education,Low,1,27243,Cooking,ETFs
+53,55208,3873,136924,Buying a House,Medium,3,20611,Travel,Real Estate
+25,77944,3230,140504,Buying a House,Low,3,27600,Travel,Stocks
+41,70549,4041,46106,Education,Medium,2,16058,Gaming,ETFs
+30,91488,3223,102086,Buying a House,Low,3,12256,Cooking,Bonds
+67,72507,4361,228126,Buying a House,High,1,28108,Reading,Mutual Funds
+35,89960,3886,160641,Retirement,Low,4,11556,Gaming,Bonds
+52,105019,5313,74828,Retirement,Medium,4,26423,Cooking,Mutual Funds
+28,72446,3417,69839,Retirement,Medium,1,20307,Sports,Real Estate
+25,86102,2672,68173,Retirement,High,3,-3294,Sports,ETFs
+35,39904,3476,143315,Buying a House,Medium,3,14256,Travel,Stocks
+48,72522,3467,180382,Education,Low,1,23348,Reading,ETFs
+22,50360,3883,129108,Buying a House,Low,2,15939,Sports,Mutual Funds
+39,77904,4951,107858,Buying a House,High,4,-5467,Cooking,Stocks
+55,79719,4869,77792,Buying a House,Medium,1,33207,Cooking,ETFs
+38,79653,5799,116468,Education,High,1,21693,Sports,Stocks
+45,65397,2782,58993,Retirement,Low,3,24437,Cooking,Mutual Funds
+22,120969,4583,3211,Buying a House,High,4,15267,Cooking,Real Estate
+38,49639,5090,181841,Buying a House,Medium,3,25314,Travel,Real Estate
+39,48417,2988,49709,Retirement,High,1,38348,Reading,ETFs
+51,108099,3688,83758,Buying a House,Medium,2,12649,Travel,Bonds
+26,60914,1375,132817,Education,Medium,4,36670,Reading,Mutual Funds
+60,56106,5360,171723,Buying a House,Low,1,23985,Cooking,ETFs
+52,121058,3676,112856,Buying a House,Low,1,11305,Reading,ETFs
+59,94714,5209,40314,Retirement,Low,2,42123,Cooking,Real Estate
+58,63110,4309,84932,Buying a House,Medium,1,23916,Cooking,Stocks
+37,79350,3722,66075,Buying a House,High,1,26764,Travel,Mutual Funds
+59,113917,1610,98089,Education,Medium,4,17306,Travel,Stocks
+20,88832,1877,161599,Retirement,Low,4,12036,Gaming,Mutual Funds
+30,100722,110,-26869,Retirement,Low,4,21678,Sports,Bonds
+47,91096,3156,79430,Education,High,3,35814,Gaming,Real Estate
+44,93605,7417,75797,Buying a House,Low,2,16903,Gaming,Bonds
+69,75794,2068,37161,Retirement,Low,4,19732,Reading,ETFs
+42,75226,52,129274,Retirement,Low,3,34563,Cooking,Real Estate
+50,80341,5444,29251,Buying a House,High,3,16996,Cooking,ETFs
+49,89689,7545,35005,Buying a House,Medium,2,25102,Cooking,Bonds
+61,69333,4446,142553,Retirement,Low,2,28773,Sports,Mutual Funds
+54,77441,4433,175028,Buying a House,High,1,18032,Reading,ETFs
+26,68793,3535,96195,Retirement,Low,3,23098,Reading,Stocks
+35,77313,1308,39130,Buying a House,High,4,26611,Cooking,Mutual Funds
+45,49980,1823,64722,Buying a House,Low,2,15990,Gaming,Mutual Funds
+67,127119,3524,150400,Education,High,3,28157,Sports,Bonds
+68,60341,3237,105821,Buying a House,Low,4,14530,Gaming,Bonds
+21,67770,3827,94948,Education,Medium,3,13249,Travel,Real Estate
+20,58614,5243,115652,Buying a House,Low,2,4729,Reading,Real Estate
+67,87314,3127,98117,Retirement,High,1,14965,Reading,Stocks
+31,71079,5274,177285,Retirement,Low,3,11844,Gaming,Mutual Funds
+24,55723,3137,62542,Buying a House,Medium,4,15991,Sports,Stocks
+56,88137,5557,56802,Buying a House,Low,2,26119,Reading,Stocks
+51,90832,4129,30827,Retirement,High,1,2743,Gaming,Bonds
+28,73662,3346,73000,Buying a House,High,4,253,Sports,Stocks
+60,61727,4103,45401,Education,Medium,4,12509,Gaming,Stocks
+54,118821,3559,110903,Education,High,4,24612,Sports,ETFs
+38,81801,4169,101047,Education,Low,3,22888,Cooking,Real Estate
+67,49518,5137,46046,Education,Low,2,12349,Sports,Real Estate
+35,103280,3869,129456,Education,Low,4,31694,Travel,Mutual Funds
+22,57884,3445,175840,Buying a House,High,3,13415,Cooking,Real Estate
+39,129837,2314,117891,Buying a House,Low,2,24624,Gaming,Mutual Funds
+43,76593,4868,-27174,Education,Low,2,16372,Cooking,ETFs
+52,95266,4522,199356,Buying a House,Low,3,11312,Cooking,Real Estate
+43,33399,2227,137346,Buying a House,Medium,3,13949,Gaming,ETFs
+30,49317,5253,197820,Education,High,4,27340,Gaming,Real Estate
+68,101677,2202,154536,Buying a House,High,2,23610,Travel,Real Estate
+27,81356,5543,164525,Buying a House,High,1,29681,Gaming,ETFs
+55,115847,5031,110263,Buying a House,Medium,3,23609,Reading,Stocks
+57,84703,4629,86885,Education,High,2,3888,Reading,Stocks
+59,77905,3434,118674,Buying a House,Medium,2,41144,Travel,Stocks
+39,109271,4863,64560,Retirement,Medium,4,23751,Sports,Stocks
+54,95202,5614,121694,Retirement,High,1,25146,Sports,Real Estate
+67,71074,4888,-31339,Education,Low,4,16231,Reading,Bonds
+44,53117,2994,102146,Retirement,Low,1,31131,Gaming,ETFs
+54,27567,4401,167233,Education,High,1,9068,Travel,Bonds
+44,66246,5698,104715,Retirement,High,3,26098,Sports,Bonds
+48,51273,7298,186374,Retirement,Medium,2,-796,Sports,Mutual Funds
+37,126954,3692,86812,Retirement,High,2,26772,Cooking,Stocks
+65,61992,5286,150132,Education,Medium,2,9204,Reading,Real Estate
+37,61445,5701,56086,Education,High,1,22769,Gaming,Stocks
+21,44575,2781,148097,Buying a House,Low,2,33573,Travel,Stocks
+54,69673,6673,111629,Education,Low,3,28227,Sports,Bonds
+35,61709,2402,89012,Retirement,High,1,32243,Cooking,Mutual Funds
+60,109754,5213,-28694,Retirement,Medium,1,31208,Reading,Stocks
+55,78369,4457,87281,Education,Low,1,14757,Reading,ETFs
+52,74822,4083,110672,Education,Medium,1,25983,Travel,ETFs
+23,72306,7820,141435,Education,High,3,2750,Sports,Stocks
+52,90723,3548,178047,Buying a House,High,2,13130,Travel,Bonds
+33,65953,3523,201751,Retirement,Low,3,33926,Travel,Bonds
+40,88344,5997,162313,Buying a House,High,2,16149,Cooking,Real Estate
+67,107279,5142,71895,Buying a House,Low,3,1319,Reading,Mutual Funds
+39,84201,5923,84759,Retirement,Medium,4,40136,Gaming,Bonds
+27,70005,4175,136945,Retirement,Low,4,25622,Reading,Real Estate
+26,55930,4475,125980,Education,Low,4,27644,Reading,ETFs
+22,69497,6851,181417,Education,Medium,4,10195,Cooking,ETFs
+36,86261,2746,223969,Buying a House,Low,1,22840,Gaming,ETFs
+52,44349,3845,213359,Education,Low,1,22575,Sports,Stocks
+67,91630,5197,174696,Education,High,3,11785,Gaming,Mutual Funds
+31,79152,3706,126395,Retirement,Medium,3,18301,Sports,Real Estate
+41,72016,3144,167466,Retirement,Low,4,4995,Gaming,Mutual Funds
+41,61811,4927,183072,Education,Medium,2,16532,Travel,Stocks
+65,65472,6003,92634,Retirement,Medium,4,29738,Gaming,Real Estate
+49,86946,3788,73366,Education,Low,3,12531,Cooking,Real Estate
+57,72435,3747,61628,Retirement,High,4,39072,Sports,Bonds
+57,64977,3028,56180,Retirement,Medium,3,5639,Reading,Mutual Funds
+64,84371,3556,30900,Retirement,Low,4,17398,Cooking,Mutual Funds
+27,85163,5625,112495,Retirement,Medium,2,13435,Sports,Bonds
+46,50016,4121,50012,Education,High,4,18198,Sports,ETFs
+46,86429,2792,60823,Buying a House,High,2,33714,Reading,Stocks
+53,125033,4393,135062,Retirement,High,2,10155,Travel,Mutual Funds
+40,84392,5576,109080,Education,Low,3,15487,Cooking,Bonds
+49,41019,3157,121481,Education,Low,2,26545,Reading,Real Estate
+52,78547,2007,168257,Retirement,High,1,20931,Reading,Bonds
+47,38383,7286,143226,Buying a House,Low,1,21751,Travel,ETFs
+66,138347,1932,175944,Retirement,High,1,10347,Cooking,Stocks
+52,119713,3461,103998,Education,Low,3,19284,Reading,ETFs
+24,61681,4348,180589,Buying a House,High,1,31315,Travel,Real Estate
+67,30086,3591,117986,Education,Medium,3,3904,Cooking,Real Estate
+38,57432,3887,108435,Retirement,High,3,13026,Gaming,Real Estate
+23,71380,4865,173076,Buying a House,High,1,1844,Sports,Real Estate
+54,39762,412,56392,Education,Low,2,25369,Travel,Bonds
+68,73619,2099,201180,Education,Low,4,32254,Sports,Real Estate
+36,71248,4066,85894,Education,Low,3,18165,Gaming,Real Estate
+63,77503,3393,39094,Retirement,Low,1,9944,Reading,Bonds
+47,79592,4194,132675,Buying a House,Low,3,10237,Reading,Real Estate
+49,55687,4341,81133,Retirement,Low,2,17029,Cooking,ETFs
+48,57931,826,201290,Retirement,Medium,2,16991,Travel,ETFs
+65,75911,5910,78354,Retirement,High,1,29118,Travel,Mutual Funds
+25,62380,3252,115722,Buying a House,High,3,13311,Cooking,ETFs
+54,93149,2701,28720,Retirement,High,4,24350,Sports,Stocks
+60,75717,4312,140645,Retirement,Medium,4,16945,Reading,Stocks
+56,112300,4160,61130,Retirement,High,3,12552,Reading,Stocks
+43,91409,5795,134666,Retirement,Medium,3,16696,Travel,Bonds
+48,97074,4407,78582,Education,Medium,3,23365,Travel,ETFs
+68,77651,5737,-2346,Retirement,Medium,1,29149,Cooking,Stocks
+65,78147,2592,106559,Education,High,2,17480,Gaming,Mutual Funds
+50,109626,4212,104321,Retirement,Medium,4,7960,Sports,Bonds
+54,67434,2327,144053,Buying a House,High,1,29997,Gaming,Mutual Funds
+52,85935,4146,177800,Education,High,3,11018,Gaming,ETFs
+40,69675,3828,195620,Education,Low,3,22608,Travel,Real Estate
+51,69627,3764,143207,Education,Low,2,19751,Travel,Mutual Funds
+42,51622,3777,113930,Education,Medium,3,18414,Travel,Real Estate
+52,60149,5104,28633,Buying a House,Medium,1,15130,Gaming,Bonds
+22,56434,1588,110101,Retirement,High,1,26201,Sports,Mutual Funds
+37,86887,2650,110747,Education,Medium,2,-15820,Travel,Mutual Funds
+44,95804,3939,90067,Buying a House,Medium,1,31364,Reading,Bonds
+61,73104,2232,131648,Education,High,4,10874,Sports,Bonds
+50,79592,4069,156095,Retirement,Medium,1,24079,Reading,Stocks
+22,71950,3923,59079,Education,Medium,1,23550,Sports,ETFs
+59,58784,1894,58300,Buying a House,High,1,32749,Travel,Mutual Funds
+65,92245,1820,93035,Retirement,High,4,21977,Cooking,Mutual Funds
+43,88050,64,69238,Buying a House,Low,3,11708,Travel,Bonds
+69,37149,2168,17937,Retirement,High,1,3952,Gaming,Bonds
+51,69337,4021,50170,Retirement,Low,2,16511,Gaming,ETFs
+66,57359,4234,38383,Retirement,Medium,4,418,Sports,Bonds
+41,67181,4302,160422,Education,High,2,13715,Gaming,Real Estate
+42,61591,2833,185141,Buying a House,High,1,17073,Travel,Real Estate
+21,74071,3972,45228,Buying a House,High,2,13100,Reading,Real Estate
+46,68401,4595,127303,Buying a House,Medium,1,20417,Travel,Real Estate
+61,67977,2097,143675,Retirement,Low,4,17638,Sports,ETFs
+21,97147,4184,25386,Education,Medium,2,16723,Gaming,Mutual Funds
+45,86143,4984,108048,Retirement,Medium,2,-4241,Reading,Real Estate
+36,60922,3263,226675,Buying a House,High,1,7052,Cooking,Bonds
+59,63889,5593,133857,Education,Low,1,26426,Reading,Real Estate
+52,84835,3298,87734,Education,Medium,3,28042,Reading,ETFs
+28,84808,2709,71990,Education,High,1,1612,Travel,Bonds
+62,62924,4835,-1123,Buying a House,Medium,1,11852,Cooking,Real Estate
+67,70320,7049,123523,Education,Medium,3,30719,Sports,Mutual Funds
+58,111936,4128,197390,Education,High,1,12819,Sports,Bonds
+48,63269,4952,59322,Retirement,High,1,18885,Reading,Bonds
+61,113216,3236,3220,Retirement,Low,3,34418,Reading,Mutual Funds
+45,97073,2137,66788,Education,Medium,4,16384,Gaming,Bonds
+54,109508,4249,144079,Education,High,4,14952,Cooking,Real Estate
+69,62418,4486,78574,Retirement,High,1,18429,Reading,Bonds
+44,71628,3463,58976,Retirement,Low,1,38534,Gaming,Real Estate
+43,66016,4946,100957,Retirement,Low,3,24462,Cooking,Mutual Funds
+32,97535,3018,111485,Buying a House,High,3,20190,Sports,Stocks
+26,63646,2646,30580,Buying a House,Low,4,14756,Gaming,Mutual Funds
+55,89624,5590,89135,Retirement,High,2,25388,Cooking,Real Estate
+64,88565,5598,75136,Education,Medium,1,26596,Gaming,ETFs
+39,74039,3048,67954,Retirement,Low,2,9268,Reading,Mutual Funds
+20,100973,6578,49148,Buying a House,Medium,2,26866,Travel,ETFs
+27,77153,3569,147062,Education,Medium,3,18488,Sports,ETFs
+65,91681,4127,67780,Buying a House,Medium,1,20247,Reading,Real Estate
+35,65105,3873,252,Education,High,1,11157,Reading,Real Estate
+33,60531,4785,113214,Buying a House,Medium,3,16000,Cooking,Stocks
+31,89622,4407,136259,Education,Medium,2,9698,Gaming,Bonds
+42,83616,4386,60199,Education,Medium,3,9217,Sports,Mutual Funds
+34,79866,2470,72016,Education,High,4,23770,Reading,Real Estate
+47,68126,1467,67547,Education,Medium,1,16448,Cooking,Mutual Funds
+53,105984,5713,82667,Buying a House,Medium,4,7003,Sports,ETFs
+21,52668,3181,155342,Buying a House,Low,3,41770,Gaming,Bonds
+51,51573,3926,94297,Education,High,1,8753,Reading,Stocks
+42,93843,4490,141979,Education,Medium,4,30921,Reading,Mutual Funds
+41,92201,6443,51558,Buying a House,Low,4,5235,Reading,Bonds
+44,82075,4242,80815,Education,High,2,24565,Sports,Stocks
+41,69240,3407,147700,Education,High,1,17494,Sports,Mutual Funds
+41,85048,3214,59719,Education,High,4,13709,Sports,Bonds
+68,109416,3943,150606,Retirement,High,4,21967,Sports,Real Estate
+61,125310,2635,68580,Education,High,2,20622,Cooking,Mutual Funds
+25,41871,4043,83916,Retirement,High,4,11875,Travel,Bonds
+34,66621,3921,183508,Education,Medium,4,11422,Cooking,Stocks
+62,65364,6462,78209,Buying a House,Medium,4,4260,Reading,Bonds
+56,107530,3874,107267,Retirement,Medium,2,23055,Cooking,Real Estate
+52,25374,1113,130821,Retirement,Medium,4,7461,Gaming,Mutual Funds
+27,85276,8010,111325,Education,Low,4,20039,Sports,Mutual Funds
+63,69863,5435,112752,Education,Medium,1,25924,Gaming,Mutual Funds
+63,107762,7123,97173,Retirement,High,1,22080,Gaming,Real Estate
+24,105020,2264,34888,Buying a House,Medium,2,12768,Reading,Stocks
+58,82310,3667,117414,Buying a House,Medium,3,29088,Sports,Mutual Funds
+23,43405,5011,63376,Education,High,1,15920,Gaming,Stocks
+25,63522,4804,138788,Buying a House,Medium,2,6658,Reading,Bonds
+64,65712,4460,168603,Buying a House,Medium,4,17162,Sports,Stocks
+51,48470,700,9722,Education,Medium,4,25867,Travel,Stocks
+49,98091,1431,168690,Buying a House,Low,2,13255,Reading,Mutual Funds
+66,45931,6276,79447,Education,Medium,4,28781,Cooking,ETFs
+54,114306,6542,93452,Retirement,High,4,12296,Sports,ETFs
+59,114256,3840,54380,Education,High,3,13657,Gaming,Real Estate
+35,67298,6085,109423,Retirement,Medium,4,9539,Gaming,Real Estate
+32,81569,2465,103340,Retirement,Medium,1,26837,Cooking,ETFs
+69,73554,2808,153846,Buying a House,Medium,4,19467,Cooking,Bonds
+61,93036,2346,62930,Buying a House,High,2,10202,Gaming,Mutual Funds
+49,100493,2725,183040,Buying a House,High,3,16037,Sports,Mutual Funds
+38,80159,5084,133235,Education,Low,4,-10711,Reading,Bonds
+36,84382,2706,104548,Buying a House,Low,2,27779,Cooking,Bonds
+38,62587,7359,90960,Retirement,Low,1,18292,Cooking,ETFs
+47,83734,4690,84671,Buying a House,High,4,-4062,Cooking,Real Estate
+45,78255,5626,87932,Buying a House,Low,3,5433,Travel,Bonds
+56,56764,4734,108420,Education,Medium,4,15784,Sports,Real Estate
+45,74719,5821,89550,Education,Medium,2,6858,Sports,Stocks
+42,67336,2698,67973,Retirement,High,3,27933,Sports,Mutual Funds
+28,62810,6170,108722,Education,Low,4,24185,Sports,ETFs
+31,52070,4211,58185,Buying a House,Medium,1,23595,Sports,Mutual Funds
+20,76250,5813,116123,Education,High,3,-6043,Gaming,ETFs
+20,59390,1840,88846,Retirement,Low,1,14745,Cooking,Stocks
+66,65577,4270,134836,Buying a House,Medium,2,13023,Gaming,Mutual Funds
+53,96502,4217,149453,Retirement,Low,4,10459,Travel,Stocks
+51,87642,3071,149434,Education,High,1,15848,Reading,ETFs
+67,55424,4469,115905,Education,Low,2,8737,Cooking,Bonds
+44,82037,6309,121741,Retirement,High,4,22152,Travel,Mutual Funds
+59,77655,2955,83862,Buying a House,Low,2,27665,Gaming,Stocks
+64,109033,5442,133881,Education,Medium,1,26803,Reading,Mutual Funds
+20,102662,2308,139525,Education,High,2,18620,Travel,Mutual Funds
+35,44325,7164,21633,Buying a House,High,3,39992,Reading,Mutual Funds
+58,92222,5176,118917,Education,High,4,31399,Travel,Real Estate
+24,100303,6587,168406,Retirement,Low,2,18984,Gaming,Stocks
+41,86187,5008,82185,Education,Low,1,15177,Reading,Stocks
+48,68291,4585,71272,Education,Medium,4,33380,Travel,Mutual Funds
+22,123267,5189,79006,Buying a House,High,3,30075,Gaming,Bonds
+31,88028,3795,24756,Retirement,High,4,5895,Cooking,Mutual Funds
+45,114530,1573,106299,Buying a House,Low,3,30858,Gaming,Real Estate
+35,102029,4671,101498,Education,Low,4,18456,Gaming,ETFs
+56,84282,2866,109851,Education,Medium,2,11390,Cooking,Real Estate
+41,63405,2347,120798,Buying a House,Medium,2,207,Gaming,Bonds
+48,74517,4954,60100,Buying a House,Low,1,17310,Cooking,Mutual Funds
+33,70561,3581,113659,Buying a House,High,3,19877,Cooking,Stocks
+47,50709,5541,122159,Retirement,Medium,1,35873,Cooking,Mutual Funds
+24,88005,2816,75580,Education,Low,2,29572,Travel,Bonds
+66,106347,3293,121005,Buying a House,Low,3,14171,Reading,Stocks
+68,69033,5725,104035,Education,High,1,23893,Travel,Real Estate
+49,118273,4419,68440,Retirement,Low,1,28262,Cooking,ETFs
+65,43848,1784,114139,Retirement,Low,1,20859,Reading,ETFs
+24,96087,4386,85464,Retirement,Medium,1,14128,Reading,Mutual Funds
+31,108430,6221,134853,Retirement,Low,1,14678,Cooking,Real Estate
+35,70919,3282,88041,Education,Low,3,23854,Reading,Bonds
+45,71278,4897,35511,Retirement,Medium,1,24129,Reading,ETFs
+45,95855,2725,113349,Retirement,High,3,17070,Travel,Real Estate
+67,85119,3794,111470,Buying a House,High,1,-6191,Reading,Mutual Funds
+40,35051,5634,45943,Retirement,Medium,2,7094,Cooking,Stocks
+58,58132,4328,137526,Buying a House,Medium,2,26196,Sports,Mutual Funds
+55,74729,5933,134911,Retirement,High,1,-1308,Sports,Mutual Funds
+52,47606,4637,56500,Retirement,High,4,31841,Sports,Real Estate
+49,65516,7328,67018,Buying a House,High,2,30361,Cooking,ETFs
+56,48106,1652,92899,Retirement,High,3,20410,Sports,Real Estate
+42,67596,3674,62057,Education,High,1,25979,Travel,Stocks
+29,68267,2373,132019,Education,Medium,3,25287,Cooking,Real Estate
+24,82035,2475,107448,Retirement,Low,4,18831,Cooking,Bonds
+55,73164,2489,45322,Education,High,1,6261,Cooking,Mutual Funds
+53,85055,4251,58876,Buying a House,High,2,29672,Reading,ETFs
+50,82670,4339,159385,Retirement,Low,3,34072,Reading,Stocks
+29,95626,4641,176778,Retirement,Low,2,7914,Reading,Mutual Funds
+38,92475,2315,126936,Buying a House,Low,2,5887,Gaming,Real Estate
+51,90362,3513,89436,Buying a House,Low,1,18632,Travel,Bonds
+20,137097,2553,78001,Buying a House,Low,3,13737,Cooking,Real Estate
+24,81948,5403,127484,Retirement,Low,4,21449,Cooking,Mutual Funds
+64,126871,2694,103796,Buying a House,Medium,2,32079,Reading,Stocks
+23,83244,3679,19496,Buying a House,Low,1,-2456,Cooking,ETFs
+35,73342,4840,151593,Education,Low,1,35812,Cooking,Mutual Funds
+43,67536,3076,167290,Education,Medium,4,15933,Sports,Stocks
+35,105194,5040,136862,Retirement,Low,1,25117,Cooking,Mutual Funds
+21,107810,6394,45419,Education,High,2,26187,Gaming,Bonds
+68,86995,4284,68158,Education,High,1,27353,Reading,Real Estate
+47,97670,5352,7114,Buying a House,Low,3,20619,Travel,ETFs
+51,49455,889,179802,Buying a House,Medium,3,22955,Travel,Stocks
+46,44024,3356,82163,Education,High,2,22890,Sports,ETFs
+39,99926,4277,216664,Education,Medium,3,13697,Travel,ETFs
+43,72463,2420,197761,Education,High,4,2419,Travel,ETFs
+31,89986,4311,54828,Retirement,Low,1,7808,Reading,Stocks
+69,60654,5589,64586,Retirement,Medium,2,18957,Reading,Stocks
+54,108139,1180,123309,Retirement,Medium,4,12131,Gaming,ETFs
+52,44191,2216,12272,Education,Medium,1,12155,Sports,Real Estate
+52,47288,4277,78087,Education,High,4,37992,Travel,Mutual Funds
+62,103886,4690,73092,Retirement,High,2,28588,Gaming,ETFs
+56,22803,5107,192558,Retirement,High,2,17479,Sports,Bonds
+31,82571,4166,108050,Education,Low,4,26720,Travel,ETFs
+22,72853,4692,85761,Buying a House,High,1,15797,Travel,Stocks
+20,60280,5355,68425,Retirement,Low,3,21107,Reading,Mutual Funds
+52,71001,3378,144702,Education,Medium,3,24416,Cooking,Bonds
+59,58049,3087,75164,Education,Medium,4,15823,Sports,Mutual Funds
+29,105845,3747,97485,Buying a House,Low,2,13147,Travel,Mutual Funds
+62,111089,4299,68043,Education,High,1,32239,Sports,Bonds
+63,61285,3012,24123,Education,Low,1,26141,Gaming,ETFs
+48,80510,3409,50198,Retirement,Medium,2,-2546,Gaming,ETFs
+32,48498,4596,74901,Retirement,Medium,3,13318,Cooking,ETFs
+31,96461,4236,86837,Buying a House,Low,1,12187,Travel,Real Estate
+50,95940,3721,89028,Buying a House,High,4,13788,Reading,ETFs
+65,69094,1388,95554,Education,High,3,28624,Travel,Bonds
+21,75337,3994,75565,Retirement,Low,4,20192,Sports,Real Estate
+69,73124,2544,167456,Buying a House,Low,3,6103,Gaming,ETFs
+54,42630,5474,147399,Buying a House,High,2,16167,Sports,Real Estate
+42,105920,3536,93244,Buying a House,Medium,4,25417,Cooking,Bonds
+36,59660,2505,112712,Education,Low,4,17803,Gaming,ETFs
+45,59797,3907,81395,Retirement,High,2,13553,Reading,Stocks
+27,71991,5906,-42174,Buying a House,High,4,23312,Gaming,Bonds
+48,94910,4946,101024,Retirement,Medium,3,36181,Travel,Mutual Funds
+45,63173,4329,115280,Buying a House,Medium,1,24614,Travel,Mutual Funds
+29,35956,2010,19366,Buying a House,Medium,1,33009,Gaming,Bonds
+45,57260,6432,124970,Retirement,Medium,2,14223,Cooking,Mutual Funds
+53,83482,3067,85971,Retirement,Medium,3,19916,Travel,Bonds
+60,118795,5400,116896,Retirement,Low,4,19714,Travel,Stocks
+26,49801,3511,87480,Education,High,4,21186,Reading,Bonds
+23,49069,5256,162547,Buying a House,Low,1,24405,Gaming,ETFs
+69,44748,5960,111311,Education,Low,4,10810,Travel,ETFs
+64,42265,4972,150120,Retirement,Low,1,26473,Cooking,Real Estate
+30,99113,5133,154236,Buying a House,Low,2,3721,Sports,Mutual Funds
+48,104893,3852,44022,Education,Low,4,6642,Gaming,Mutual Funds
+55,78555,3349,63049,Buying a House,Medium,3,41356,Reading,Bonds
+44,65645,4207,122580,Education,Medium,4,14898,Travel,Mutual Funds
+40,110822,3490,81723,Retirement,High,1,27295,Cooking,ETFs
+55,78478,7700,88069,Education,Low,2,36982,Gaming,Stocks
+29,96788,2511,164328,Buying a House,High,1,-3144,Cooking,Bonds
+56,64671,5503,84481,Buying a House,Medium,4,31262,Cooking,Mutual Funds
+28,75884,4775,51553,Buying a House,Medium,1,26489,Reading,ETFs
+43,50253,4344,58309,Buying a House,Medium,1,36403,Gaming,Real Estate
+54,87584,6219,209117,Retirement,Low,2,8184,Travel,Mutual Funds
+68,78818,4447,91089,Education,Low,3,34512,Reading,Stocks
+54,57108,3047,31787,Retirement,Medium,4,12605,Travel,Stocks
+67,57377,4437,11527,Retirement,High,2,30547,Sports,Mutual Funds
+55,107319,3725,68768,Retirement,High,3,19639,Cooking,Mutual Funds
+37,114433,4754,90173,Buying a House,Medium,1,27707,Sports,ETFs
+68,70737,5219,147458,Buying a House,High,3,20488,Cooking,Mutual Funds
+58,76355,2711,142617,Buying a House,Medium,1,1605,Reading,Real Estate
+51,83002,5793,99682,Education,High,1,-11205,Travel,ETFs
+43,77960,3617,77291,Buying a House,Medium,2,22099,Travel,Bonds
+42,41514,4665,116980,Education,High,1,17362,Reading,Real Estate
+51,83557,4925,12562,Buying a House,Low,2,23982,Gaming,ETFs
+56,33242,4551,199054,Buying a House,Medium,3,17478,Sports,ETFs
+31,60346,3836,132705,Retirement,Medium,3,40180,Sports,Stocks
+68,85108,3267,143349,Retirement,High,1,22305,Travel,ETFs
+32,86999,3596,46292,Retirement,Medium,2,15530,Travel,Real Estate
+42,58798,6347,164132,Education,Medium,1,23373,Travel,Mutual Funds
+44,65831,2701,76999,Education,Medium,2,15713,Reading,Real Estate
+54,63123,2921,52372,Buying a House,Low,2,20929,Gaming,Bonds
+60,72943,2855,98041,Education,Low,2,7825,Sports,ETFs
+49,74464,4203,96872,Buying a House,High,3,19914,Cooking,ETFs
+36,88369,1712,46073,Education,Low,2,15221,Reading,ETFs
+68,64662,1969,55253,Education,High,3,8772,Sports,ETFs
+39,82467,3608,51338,Education,Low,2,39757,Gaming,Stocks
+67,85140,2068,51814,Retirement,High,3,9162,Reading,Stocks
+44,78965,2190,80595,Education,Low,4,20069,Sports,Mutual Funds
+41,69807,2079,30550,Retirement,Low,3,11971,Reading,ETFs
+32,78612,2730,65431,Retirement,High,3,22970,Sports,Bonds
+38,90034,5096,152256,Education,Medium,1,7256,Sports,Mutual Funds
+68,91783,5433,141165,Buying a House,Medium,2,28403,Gaming,ETFs
+55,111307,6878,47506,Buying a House,Low,4,40361,Cooking,Stocks
+31,55199,6823,147910,Buying a House,High,1,11604,Gaming,Bonds
+60,66199,5179,1678,Education,Medium,2,32169,Sports,Mutual Funds
+38,42730,5541,221457,Buying a House,High,4,16181,Reading,Bonds
+31,93620,4196,165015,Retirement,Medium,4,35057,Gaming,ETFs
+28,68309,4779,72013,Buying a House,High,4,41884,Cooking,Real Estate
+26,79123,6915,119121,Education,Low,2,17662,Sports,Bonds
+47,62913,4556,29954,Buying a House,High,4,4797,Gaming,Bonds
+33,68465,5729,103022,Retirement,Medium,4,29480,Gaming,Stocks
+50,99463,2598,90816,Education,Low,1,22244,Gaming,ETFs
+38,88884,3000,58261,Buying a House,High,3,25017,Gaming,Bonds
+66,72769,4468,76572,Education,Medium,2,16601,Reading,ETFs
+35,90356,4224,71650,Education,Low,3,11155,Cooking,Stocks
+24,90798,3070,43413,Education,High,1,31603,Cooking,ETFs
+54,67171,7611,57092,Buying a House,Medium,3,23197,Sports,Stocks
+31,45618,4258,27907,Education,High,4,5564,Travel,Stocks
+44,57016,3335,142866,Buying a House,High,4,26868,Reading,Mutual Funds
+40,48189,4227,53394,Retirement,Low,2,24861,Sports,ETFs
+55,98288,4038,38898,Buying a House,Low,2,16747,Sports,Real Estate
+42,101762,4281,142075,Retirement,Medium,2,36198,Gaming,Mutual Funds
+35,106727,1609,118481,Buying a House,Low,1,13818,Travel,Stocks
+58,34608,5937,140225,Education,Medium,2,18310,Travel,Real Estate
+64,96428,6023,145804,Buying a House,High,1,27686,Reading,Bonds
+61,119243,6205,196872,Education,High,4,20767,Travel,Bonds
+58,97239,4488,92198,Retirement,Medium,3,6155,Sports,Mutual Funds
+33,31975,4993,27119,Buying a House,High,4,21837,Travel,Real Estate
+50,110365,2700,113551,Education,Low,4,15856,Travel,ETFs
+24,75833,5249,66549,Retirement,High,4,28569,Cooking,Real Estate
+54,70352,4377,52124,Retirement,Low,2,21512,Sports,Mutual Funds
+42,84021,3309,104996,Buying a House,Medium,2,20945,Travel,ETFs
+48,54019,5297,143287,Retirement,Medium,2,9517,Travel,ETFs
+62,75055,5355,58200,Education,High,3,17699,Gaming,Bonds
+30,107408,4090,163719,Retirement,High,2,29701,Travel,Real Estate
+37,87447,4657,50519,Retirement,Low,1,12234,Travel,ETFs
+66,76168,2452,87804,Education,Low,4,19674,Cooking,Mutual Funds
+31,76792,5864,119315,Retirement,High,3,10635,Sports,Bonds
+28,51372,2651,80605,Retirement,High,3,8161,Reading,ETFs
+29,72000,2941,11199,Retirement,Medium,3,19151,Sports,Real Estate
+63,42314,4093,146370,Retirement,Medium,3,21738,Gaming,Bonds
+36,95448,5671,68826,Education,Medium,3,39938,Sports,Real Estate
+57,31285,5670,137244,Retirement,High,1,15445,Travel,Real Estate
+26,92098,3992,36792,Education,High,4,19498,Gaming,Real Estate
+65,94588,5159,45328,Retirement,High,3,7499,Sports,Bonds
+32,101375,1466,143121,Retirement,Medium,4,26122,Gaming,ETFs
+59,76737,2921,117025,Retirement,High,2,23980,Reading,Stocks
+61,93332,2951,78070,Retirement,Low,3,34883,Sports,ETFs
+28,71805,5878,117751,Education,High,3,31116,Travel,Bonds
+69,51266,4981,52298,Education,High,4,23514,Gaming,Stocks
+46,105614,4276,105512,Education,High,3,15299,Cooking,Stocks
+21,73062,4422,106427,Buying a House,High,3,22046,Gaming,Stocks
+24,46809,6352,81310,Retirement,High,3,18889,Cooking,Mutual Funds
+48,65663,3744,58235,Retirement,Low,1,29533,Travel,Bonds
+56,66453,2028,103512,Education,Low,1,28262,Reading,Mutual Funds
+57,84233,5630,97250,Buying a House,High,3,17035,Cooking,Stocks
+38,121940,4272,76708,Retirement,Medium,1,5380,Reading,Mutual Funds
+27,85448,5430,48309,Education,High,2,33333,Gaming,Mutual Funds
+67,79136,3932,100623,Retirement,High,3,25818,Travel,Bonds
+64,124115,2741,76833,Retirement,High,2,16805,Cooking,Real Estate
+20,94577,4604,48267,Education,Medium,4,25428,Gaming,Mutual Funds
+41,80084,4015,102176,Education,Medium,2,20748,Sports,Mutual Funds
+36,65411,4277,180415,Retirement,Medium,4,33186,Gaming,Stocks
+26,81324,6424,81658,Retirement,Low,3,702,Reading,Stocks
+44,73672,2351,174888,Education,Medium,4,16028,Travel,Stocks
+64,76828,4428,205716,Retirement,Low,4,35990,Travel,ETFs
+23,101288,2771,52329,Retirement,Low,2,25631,Gaming,Mutual Funds
+55,64193,114,100452,Education,Medium,2,37726,Sports,Stocks
+25,85270,3926,205186,Retirement,Medium,2,7781,Reading,Bonds
+50,93978,4046,93946,Retirement,Medium,3,30721,Gaming,ETFs
+38,61757,4935,101840,Buying a House,Low,3,30122,Gaming,Real Estate
+63,58547,3673,16499,Education,High,2,3182,Travel,Mutual Funds
+58,71993,1766,73416,Buying a House,Medium,3,17044,Reading,Mutual Funds
+46,65767,2766,127779,Buying a House,Medium,3,18934,Sports,Bonds
+29,98046,5975,221464,Buying a House,Medium,4,3804,Travel,Real Estate
+45,54964,2745,90199,Retirement,Low,4,17253,Gaming,Real Estate
+38,76369,6374,16868,Retirement,Low,2,28731,Travel,ETFs
+58,125920,5574,29737,Buying a House,High,3,16090,Travel,Mutual Funds
+22,83261,3523,98210,Buying a House,Medium,4,22421,Cooking,Stocks
+64,86585,2906,158860,Buying a House,Low,1,22493,Travel,Bonds
+32,98213,5571,131867,Retirement,High,3,19878,Travel,Bonds
+69,65741,3638,123012,Buying a House,Medium,1,12948,Reading,Bonds
+47,53371,1681,165457,Buying a House,Low,2,26588,Travel,Bonds
+39,78530,4843,63988,Education,Medium,3,4129,Sports,Stocks
+47,80308,4625,100954,Education,Medium,2,20085,Gaming,Stocks
+27,42635,5706,73980,Retirement,Low,2,33854,Reading,ETFs
+60,82501,4524,86427,Education,Low,2,15526,Travel,Mutual Funds
+58,96397,3176,49686,Education,Low,2,12726,Sports,Stocks
+20,56741,5904,82801,Education,Medium,2,27255,Gaming,ETFs
+22,83711,6050,98614,Retirement,Medium,3,21634,Reading,Real Estate
+32,92845,4349,81426,Education,High,1,27454,Sports,Mutual Funds
+47,86733,4090,91946,Retirement,Medium,3,20384,Travel,Stocks
+68,88620,2015,120252,Buying a House,Low,3,-3882,Cooking,Real Estate
+44,70103,3088,161934,Education,Medium,3,31799,Cooking,ETFs
+52,52449,5141,165557,Retirement,High,4,40700,Reading,Stocks
+57,66057,3164,138071,Education,High,4,32840,Sports,Stocks
+25,63278,1814,37000,Buying a House,Low,3,-15388,Gaming,Real Estate
+63,73394,9243,81979,Retirement,Low,1,24510,Sports,Stocks
+64,96865,1804,86285,Retirement,High,3,15332,Cooking,Bonds
+51,48763,7385,67142,Retirement,High,2,9157,Reading,Stocks
+64,77885,3538,117117,Buying a House,High,4,21227,Travel,Mutual Funds
+66,53731,3873,20283,Buying a House,Low,4,18510,Sports,Real Estate
+40,60199,2991,184678,Buying a House,High,3,25086,Cooking,Mutual Funds
+35,86174,5174,159761,Retirement,High,3,20565,Gaming,ETFs
+40,51201,1840,123910,Buying a House,Low,1,8791,Reading,Mutual Funds
+30,89684,1239,96894,Education,Medium,1,14233,Travel,Bonds
+56,47956,6415,161441,Buying a House,Medium,2,12620,Sports,Bonds
+55,88339,2794,134470,Retirement,High,3,2835,Gaming,Mutual Funds
+54,44009,5119,155331,Education,Medium,3,6283,Travel,ETFs
+38,62643,2371,97047,Buying a House,Medium,3,17889,Cooking,Stocks
+39,112929,5062,189465,Education,Medium,4,34237,Cooking,Bonds
+37,109170,6525,158344,Education,Medium,2,14644,Gaming,Mutual Funds
+66,66749,3209,125476,Retirement,High,1,12425,Cooking,Mutual Funds
+60,82799,1099,162798,Education,Medium,4,8187,Reading,Mutual Funds
+68,99081,6533,79041,Education,Medium,4,20305,Gaming,Stocks
+33,88625,5389,41624,Retirement,Low,4,31792,Cooking,Real Estate
+34,69530,3289,116077,Retirement,High,4,40026,Sports,ETFs
+50,60027,3673,97145,Retirement,Low,2,22853,Cooking,Real Estate
+20,92362,2334,90114,Education,Low,3,21399,Reading,ETFs
+22,97614,6130,160815,Education,High,1,14565,Travel,ETFs
+35,109314,3197,108356,Education,Medium,1,16234,Travel,Mutual Funds
+42,41255,1871,113178,Retirement,Low,4,26291,Cooking,Bonds
+30,49937,4320,83647,Buying a House,High,4,16851,Travel,Mutual Funds
+31,98238,2709,144056,Education,Medium,2,18377,Cooking,Stocks
+29,43969,2454,135093,Buying a House,High,4,19746,Reading,ETFs
+51,99770,3354,143682,Retirement,Low,1,14091,Travel,Bonds
+35,70701,4129,75136,Education,Medium,1,19250,Sports,ETFs
+27,64581,1928,165204,Buying a House,Medium,3,-194,Cooking,ETFs
+57,79108,6077,191938,Education,High,3,25488,Travel,Mutual Funds
+31,48092,5015,142101,Education,Medium,1,43517,Reading,Bonds
+43,91480,3451,59535,Education,Low,1,14479,Reading,Bonds
+47,108792,2644,59889,Buying a House,Low,2,23738,Sports,ETFs
+27,92411,3866,81231,Retirement,Low,2,28515,Reading,Bonds
+47,70069,5349,71781,Education,High,1,32802,Reading,Bonds
+55,44239,5116,96445,Retirement,Medium,4,17356,Travel,Mutual Funds
+45,45008,5587,131622,Retirement,Medium,3,1966,Cooking,Real Estate
+27,48407,3279,114497,Buying a House,Medium,1,22672,Gaming,Stocks
+69,74754,-387,110114,Buying a House,Low,4,21286,Reading,Real Estate
+47,77268,5871,87939,Retirement,Medium,1,16543,Reading,Bonds
+47,92368,3749,96307,Education,Low,3,18664,Gaming,ETFs
+56,39079,4999,139828,Buying a House,Medium,3,21436,Reading,Stocks
+60,101224,6503,-597,Education,Low,2,23617,Travel,Stocks
+55,88888,7651,99430,Education,Medium,2,23198,Travel,ETFs
+46,68463,3025,114399,Education,High,2,17823,Gaming,Stocks
+36,51204,4200,139179,Retirement,High,2,23842,Reading,ETFs
+28,99982,6050,49497,Education,Low,3,17149,Reading,Stocks
+52,68998,2733,46854,Retirement,Low,4,26420,Cooking,Real Estate
+39,74599,3126,129197,Retirement,Medium,4,13725,Reading,Stocks
+32,82672,3117,4777,Education,Medium,4,20730,Travel,Mutual Funds
+47,56736,3957,166609,Education,High,1,3762,Sports,ETFs
+67,69356,3669,111329,Education,Medium,2,16300,Sports,Stocks
+48,92306,3109,177936,Education,Low,2,25674,Sports,ETFs
+32,90281,2551,45646,Retirement,Low,3,9662,Sports,Mutual Funds
+65,90462,5217,78182,Education,Low,3,16798,Reading,Stocks
+54,51896,6006,-20393,Education,Low,1,-4050,Reading,Stocks
+25,70268,6224,60215,Retirement,Low,1,6319,Cooking,Mutual Funds
+37,67072,3278,90807,Buying a House,High,4,8935,Reading,Mutual Funds
+24,83503,5280,1864,Buying a House,High,3,21017,Sports,Mutual Funds
+66,81713,4354,80268,Retirement,Low,2,23334,Gaming,ETFs
+44,78108,3143,632,Buying a House,Medium,4,19439,Gaming,Mutual Funds
+21,124314,5101,87126,Retirement,Low,2,16174,Travel,ETFs
+29,69183,3075,157355,Education,High,4,16208,Travel,Real Estate
+49,66843,3435,98251,Education,Low,2,27160,Reading,Stocks
+69,51865,1934,182910,Buying a House,High,1,22128,Gaming,Stocks
+64,44243,3303,139314,Education,High,4,16660,Sports,Bonds
+24,50593,4380,167407,Buying a House,Low,2,32932,Sports,Real Estate
+52,60626,6353,61752,Buying a House,Low,2,39499,Sports,Mutual Funds
+20,101201,3469,60542,Education,Medium,3,7542,Reading,Mutual Funds
+37,75783,2442,117280,Education,High,4,25225,Reading,Real Estate
+51,78866,6246,21114,Buying a House,Medium,2,50898,Cooking,Mutual Funds
+66,73074,3243,123557,Education,Low,3,22802,Sports,Bonds
+68,82306,1377,83804,Retirement,High,2,21154,Sports,ETFs
+30,103041,4199,166499,Education,Medium,4,19442,Reading,Stocks
+40,35121,3512,133975,Education,Medium,1,24901,Reading,Real Estate
+45,99366,7450,154835,Retirement,Medium,4,27548,Cooking,Stocks
+44,24699,4713,62289,Education,Low,4,7552,Cooking,ETFs
+41,75564,3780,152410,Education,Low,2,19735,Travel,Real Estate
+46,118838,2613,172235,Buying a House,Low,2,-2694,Gaming,ETFs
+68,88613,4495,98064,Education,High,4,17906,Sports,Mutual Funds
+32,82461,6185,63032,Education,Low,3,10973,Sports,Mutual Funds
+52,115038,4467,63910,Retirement,High,3,23391,Cooking,Mutual Funds
+53,60938,2728,161950,Buying a House,Medium,3,3436,Cooking,ETFs
+60,83679,4808,234217,Buying a House,Medium,2,14876,Travel,ETFs
+54,86562,3927,50917,Buying a House,Low,2,29665,Gaming,ETFs
+20,64551,4672,47073,Education,Medium,4,13236,Travel,Stocks
+40,66317,3467,146070,Buying a House,Low,1,950,Gaming,ETFs
+67,64124,3432,62304,Retirement,High,2,22575,Sports,Mutual Funds
+25,76746,3373,150917,Buying a House,Medium,4,14134,Travel,Bonds
+47,85933,5413,123267,Retirement,Low,4,18141,Cooking,ETFs
+36,77464,3447,98801,Buying a House,Medium,1,12701,Travel,Bonds
+24,89189,3310,122063,Buying a House,Medium,3,39743,Travel,Mutual Funds
+50,35617,2586,119009,Retirement,Low,4,4419,Sports,ETFs
+24,70634,4681,91019,Buying a House,Medium,4,48334,Cooking,Stocks
+57,54531,4467,12181,Buying a House,Medium,4,16093,Cooking,Stocks
+22,81034,3326,108932,Buying a House,Medium,3,21834,Reading,Bonds
+42,80738,2935,178653,Education,Medium,3,14252,Reading,Stocks
+56,72687,6814,19561,Retirement,High,1,13833,Reading,Stocks
+56,85205,1179,51710,Buying a House,Medium,2,12151,Sports,Stocks
+29,94956,4739,121341,Retirement,Medium,3,26012,Travel,Mutual Funds
+29,73789,5937,101929,Retirement,Low,2,5892,Cooking,Stocks
+38,53966,-1080,120559,Retirement,High,2,23641,Cooking,Real Estate
+36,43374,5191,65034,Buying a House,Low,3,-1844,Travel,ETFs
+40,75722,3669,158122,Buying a House,Low,4,22735,Cooking,Stocks
+33,79837,4384,102345,Retirement,Low,1,28491,Travel,Stocks
+28,55609,3515,134849,Education,High,2,7254,Sports,Stocks
+65,89515,5613,116013,Retirement,Low,4,26787,Sports,Real Estate
+20,65820,4544,108774,Education,Low,3,20513,Sports,Stocks
+64,41871,4197,131341,Retirement,Low,2,35984,Travel,Stocks
+32,100128,2651,109324,Retirement,Medium,2,11447,Travel,ETFs
+23,97879,6823,40490,Retirement,Low,2,48159,Gaming,Real Estate
+20,34688,4014,154367,Buying a House,High,4,-3907,Cooking,Real Estate
+68,63747,7434,140906,Education,High,4,16704,Cooking,Stocks
+59,62968,6891,-5342,Education,Medium,4,3014,Gaming,Real Estate
+51,107789,1332,67289,Retirement,High,2,38510,Gaming,Bonds
+53,73014,3017,152118,Buying a House,High,2,17382,Sports,Real Estate
+47,45082,2444,8653,Buying a House,Medium,1,18283,Gaming,Real Estate
+50,92642,3927,147178,Education,Low,1,24432,Travel,Real Estate
+27,50384,4280,92938,Buying a House,Medium,4,19951,Reading,Mutual Funds
+58,69793,4344,167014,Education,Low,4,14062,Travel,Mutual Funds
+45,59604,5581,99942,Education,Low,3,7433,Gaming,Mutual Funds
+53,63790,6240,63896,Education,High,4,21685,Cooking,Real Estate
+22,93745,5451,115404,Buying a House,Medium,1,23788,Travel,Bonds
+69,105426,3158,98480,Education,High,1,26953,Cooking,Real Estate
+31,49512,2826,59457,Education,High,1,39127,Travel,Stocks
+20,87521,4004,210917,Retirement,Low,2,-1737,Cooking,Bonds
+63,60344,4639,51445,Education,High,2,19322,Travel,Mutual Funds
+24,60966,3725,-12147,Education,Medium,4,31917,Cooking,ETFs
+49,84812,1981,179084,Retirement,High,3,18754,Reading,Bonds
+49,54441,5023,70821,Retirement,High,3,-3381,Sports,Mutual Funds
+36,84412,3411,85161,Buying a House,Low,3,7089,Travel,Bonds
+67,89602,3366,82104,Education,Medium,2,23285,Reading,Bonds
+66,66349,3918,71517,Buying a House,High,1,22921,Sports,Real Estate
+42,101541,3640,61690,Buying a House,Low,1,26725,Travel,Stocks
+34,49543,3450,50159,Retirement,High,2,12189,Reading,ETFs
+56,101908,2079,103237,Buying a House,Medium,3,22598,Reading,Mutual Funds
+40,36120,3831,79900,Education,High,3,10541,Reading,Bonds
+33,128994,5054,136518,Retirement,High,4,22599,Gaming,ETFs
+21,66875,4396,124134,Education,Low,4,20532,Cooking,Bonds
+30,51753,5422,53624,Education,High,3,11791,Sports,Stocks
+58,70346,2907,105426,Retirement,Low,2,35581,Cooking,ETFs
+57,54070,2082,79108,Education,Medium,3,2943,Cooking,Mutual Funds
+53,82739,3631,50416,Retirement,High,4,18583,Cooking,Bonds
+57,102353,3078,134471,Education,Medium,3,11570,Reading,Stocks
+69,55130,3234,93933,Retirement,Medium,2,38342,Cooking,ETFs
+53,86587,4317,79622,Buying a House,High,1,25983,Gaming,Bonds
+37,44345,3245,57221,Education,Low,2,13506,Travel,Bonds
+49,95659,2124,48603,Retirement,Medium,2,17202,Reading,Mutual Funds
+34,83324,3161,199438,Education,Medium,4,38612,Sports,Stocks
+46,96523,4510,116705,Education,High,2,10537,Travel,Real Estate
+53,72553,5007,45443,Education,High,2,2355,Travel,Bonds
+57,66296,4992,114393,Retirement,High,4,22910,Travel,ETFs
+52,91322,4636,153100,Buying a House,High,4,23136,Cooking,Mutual Funds
+43,48839,3747,108375,Buying a House,High,1,26660,Cooking,Mutual Funds
+34,40143,4607,168701,Buying a House,High,3,26726,Reading,Bonds
+49,74900,3936,22859,Retirement,Low,2,37707,Cooking,Bonds
+61,67208,4169,433,Buying a House,Medium,4,2818,Cooking,Bonds
+36,86076,2591,113025,Retirement,Low,1,7971,Cooking,Real Estate
+24,96831,4065,113824,Education,Low,3,26622,Reading,Bonds
+48,85660,4567,-66975,Education,High,4,8943,Reading,Stocks
+23,95238,4511,68821,Buying a House,Medium,3,5434,Gaming,ETFs
+29,81421,2068,49566,Retirement,Low,3,38658,Gaming,Bonds
+36,84891,4144,30402,Education,High,2,3800,Gaming,Real Estate
+29,72666,1834,49447,Retirement,High,2,16487,Gaming,ETFs
+36,84300,4260,129789,Retirement,Medium,4,19406,Travel,Mutual Funds
+39,78333,2947,49129,Education,Low,3,33091,Travel,Bonds
+43,81503,6558,50843,Retirement,Low,4,1311,Gaming,ETFs
+24,71665,4178,19059,Education,Low,4,24154,Gaming,Mutual Funds
+53,91178,5201,163445,Education,High,3,11096,Sports,Real Estate
+25,60790,7166,121731,Education,Medium,4,26276,Travel,Stocks
+21,74633,2773,-24617,Retirement,Medium,3,10931,Sports,Bonds
+32,101235,4653,50887,Education,Low,3,35723,Sports,Stocks
+62,56025,2221,126425,Retirement,High,3,10990,Cooking,Real Estate
+62,31763,4517,164069,Education,Low,3,-4619,Reading,ETFs
+67,82329,6648,142041,Education,Medium,1,12111,Travel,ETFs
+30,69860,3058,82215,Buying a House,High,3,17386,Gaming,Real Estate
+66,95217,2671,3431,Buying a House,Low,2,30823,Gaming,Real Estate
+42,72389,3863,143512,Buying a House,Low,2,7415,Reading,Bonds
+35,62913,7068,85155,Retirement,High,2,7613,Travel,Mutual Funds
+50,73483,5156,103443,Retirement,Medium,3,29605,Gaming,Stocks
+30,96861,2642,91128,Education,High,2,6247,Gaming,Stocks
+35,86507,6182,32223,Education,Low,1,18210,Cooking,ETFs
+27,26321,1517,118212,Education,Low,4,18413,Sports,ETFs
+23,78715,7204,111322,Education,Low,3,22175,Gaming,Bonds
+59,79715,5284,78710,Retirement,Low,2,12501,Travel,Real Estate
+23,74635,6645,123555,Education,Medium,1,10730,Reading,Stocks
+44,62782,1528,31300,Education,Medium,4,23348,Cooking,Bonds
+22,98890,4254,86549,Buying a House,Low,1,11040,Travel,ETFs
+51,99880,3799,101306,Education,Medium,2,6400,Cooking,ETFs
+22,30936,2489,13253,Education,Medium,1,32277,Sports,Stocks
+46,59040,2055,97145,Education,Medium,4,24880,Gaming,ETFs
+48,72105,4760,136682,Retirement,Low,2,37675,Travel,ETFs
+51,93970,4896,84838,Buying a House,High,4,27839,Reading,Mutual Funds
+69,75697,5949,98294,Education,High,1,7318,Sports,Real Estate
+38,61328,3244,128117,Education,High,3,20963,Sports,ETFs
+40,89190,3787,80609,Buying a House,Low,3,9843,Cooking,Mutual Funds
+24,70773,1926,85110,Education,Medium,3,3483,Sports,Bonds
+37,72651,6311,41164,Retirement,Medium,3,15528,Travel,ETFs
+47,74456,4104,99253,Education,Low,4,29815,Cooking,Bonds
+61,86486,5083,83257,Retirement,Low,3,22749,Sports,ETFs
+41,68829,5136,124954,Retirement,High,4,6091,Reading,Stocks
+40,88738,6188,128172,Education,High,2,15176,Travel,Mutual Funds
+25,73538,2752,139560,Buying a House,Low,3,18571,Reading,Mutual Funds
+20,53659,5046,74586,Retirement,High,4,3108,Reading,Stocks
+24,74264,3962,-8829,Buying a House,Medium,3,27131,Cooking,Real Estate
+60,54695,7158,137081,Education,Low,3,17712,Gaming,Mutual Funds
+31,75819,2748,121556,Retirement,Low,3,6094,Cooking,Bonds
+45,91589,5757,68235,Education,Medium,4,5528,Travel,Mutual Funds
+65,53527,4525,127747,Buying a House,Medium,1,31006,Travel,Real Estate
+53,82285,4446,27570,Education,Medium,3,16191,Cooking,Bonds
+68,58419,4081,151512,Education,High,3,31903,Gaming,Bonds
+33,79034,6019,83318,Retirement,Low,2,35721,Cooking,Stocks
+45,92204,4395,58553,Education,High,1,30224,Travel,ETFs
+64,32409,1713,68914,Education,Medium,4,14665,Gaming,Stocks
+46,52710,5829,88425,Education,High,2,-4978,Travel,ETFs
+28,67620,5554,99399,Retirement,Medium,3,23129,Gaming,Stocks
+45,81300,4880,102414,Buying a House,High,2,40915,Gaming,ETFs
+66,71672,2307,78519,Buying a House,High,2,19646,Cooking,Mutual Funds
+41,74082,2540,110011,Education,Medium,3,101,Cooking,Bonds
+66,115859,1183,100413,Retirement,High,1,13251,Cooking,ETFs
+49,50750,4690,67621,Education,Low,1,18162,Gaming,Mutual Funds
+62,97709,1975,60090,Buying a House,High,2,9020,Gaming,Real Estate
+67,68000,1421,130418,Retirement,High,3,-5639,Travel,Stocks
+36,85989,5912,126216,Buying a House,Low,4,19021,Reading,Real Estate
+45,117578,5152,102856,Buying a House,Medium,2,12151,Cooking,Mutual Funds
+55,88773,3500,146209,Retirement,Low,4,37726,Travel,Real Estate
+20,82449,3798,1933,Retirement,High,2,21010,Travel,Real Estate
+27,106982,388,71780,Education,Medium,2,24695,Sports,Mutual Funds
+68,97495,5375,42184,Education,High,3,18809,Cooking,Bonds
+54,59012,2960,212813,Buying a House,High,3,20937,Travel,ETFs
+34,80890,4495,135660,Retirement,Low,4,3477,Sports,Stocks
+66,40650,267,96046,Retirement,Low,4,9598,Cooking,ETFs
+41,64196,5466,139249,Education,Medium,1,30886,Gaming,Stocks
+33,81281,2870,155813,Buying a House,Medium,3,22094,Sports,ETFs
+45,62957,1935,155281,Buying a House,Medium,2,16014,Gaming,Real Estate
+47,80467,3490,146085,Education,High,2,24861,Reading,Bonds
+42,74732,3105,86872,Retirement,Low,1,25058,Reading,Real Estate
+33,85728,5611,74931,Education,Low,3,39908,Reading,Bonds
+43,66516,3369,51890,Education,Low,2,21630,Reading,Mutual Funds
+21,56197,6043,125122,Education,Medium,1,9374,Travel,Stocks
+64,104562,4495,92053,Education,Low,1,18843,Reading,Stocks
+45,65086,5341,79076,Retirement,Low,2,26075,Travel,Mutual Funds
+33,88200,3996,76466,Education,Low,2,29956,Travel,ETFs
+26,103704,5908,172509,Retirement,Medium,4,3849,Cooking,Mutual Funds
+22,78253,2269,147634,Education,Low,3,22537,Travel,Mutual Funds
+66,57873,4170,191519,Buying a House,Medium,4,11027,Travel,Bonds
+42,71427,3405,126450,Retirement,Low,1,14333,Reading,Mutual Funds
+65,95350,6094,102847,Buying a House,Low,2,28458,Travel,Stocks
+62,79124,6248,98729,Education,Low,4,27462,Gaming,Real Estate
+66,50897,4000,48984,Education,Medium,1,13218,Reading,Bonds
+64,86932,2062,36929,Education,Medium,3,18421,Sports,Bonds
+37,90390,4640,125367,Retirement,Low,2,14639,Reading,ETFs
+57,67893,1503,53266,Buying a House,High,4,48917,Travel,Real Estate
+54,87204,6439,110572,Retirement,Medium,3,22783,Gaming,Bonds
+34,79900,3290,155773,Retirement,Medium,4,11605,Reading,Mutual Funds
+44,71051,3954,66727,Education,Low,1,33221,Gaming,Bonds
+56,49129,2978,200524,Buying a House,High,3,33574,Sports,Bonds
+47,96559,2647,50465,Education,Low,4,37916,Sports,Bonds
+29,90184,5105,149509,Retirement,Medium,3,40879,Cooking,ETFs
+58,86677,3762,121237,Education,Medium,1,27077,Cooking,Bonds
+36,105890,4063,159704,Buying a House,Low,3,16501,Reading,Bonds
+58,93903,2494,44190,Education,Low,4,17973,Cooking,ETFs
+41,88731,5284,215351,Buying a House,High,1,17079,Gaming,Real Estate
+45,30735,5436,91061,Buying a House,High,2,15962,Cooking,Stocks
+63,98937,3686,133832,Education,Medium,4,32399,Gaming,ETFs
+44,76661,5901,172224,Retirement,High,4,20007,Cooking,ETFs
+36,81249,3843,69766,Education,High,1,29714,Cooking,Bonds
+32,81386,5169,141286,Retirement,Medium,1,26765,Cooking,Bonds
+39,90476,1565,61426,Retirement,Medium,2,9013,Travel,Stocks
+44,97443,4530,169848,Education,Medium,4,2828,Travel,Bonds
+23,87684,3592,61990,Retirement,Medium,1,7633,Cooking,Mutual Funds
+29,84505,4233,101925,Retirement,Low,2,15732,Gaming,Bonds
+22,79630,4166,115306,Education,Medium,2,21343,Reading,Bonds
+60,7967,4188,139214,Education,Medium,1,13516,Sports,Mutual Funds
+64,69248,4923,198423,Education,Medium,4,27030,Travel,Stocks
+37,56168,3152,77401,Retirement,High,3,14723,Cooking,Mutual Funds
+66,99214,4853,156936,Buying a House,Medium,3,22569,Sports,ETFs
+55,87380,5848,198512,Retirement,Low,2,21175,Travel,Mutual Funds
+66,65837,1884,108286,Buying a House,Low,3,37344,Reading,Real Estate
+41,67845,2829,72493,Education,Medium,3,10247,Gaming,ETFs
+53,67120,2892,13498,Buying a House,Low,1,42084,Cooking,Bonds
+66,66763,2361,194163,Education,High,2,14056,Reading,ETFs
+27,46108,3287,87777,Education,Medium,4,6599,Travel,Stocks
+59,41774,5549,49932,Buying a House,Low,2,17830,Cooking,Stocks
+68,75580,6171,32083,Education,Low,1,52401,Sports,Mutual Funds
+63,96506,4159,49839,Buying a House,Medium,3,28952,Gaming,ETFs
+38,64246,3513,145985,Education,Low,4,26029,Travel,Bonds
+61,81068,5204,152893,Retirement,Medium,2,27951,Gaming,Stocks
+60,89685,454,132606,Retirement,Low,3,12304,Cooking,Bonds
+56,55132,2417,106616,Education,High,2,23260,Reading,Real Estate
+25,74600,517,37723,Education,Low,4,20025,Gaming,Stocks
+45,61669,2401,63502,Buying a House,Low,2,38090,Sports,Mutual Funds
+53,107122,2849,44669,Retirement,Medium,2,18913,Travel,Real Estate
+64,106249,6216,128641,Buying a House,Low,2,16217,Sports,ETFs
+25,55153,-141,46834,Education,Medium,3,8352,Gaming,Bonds
+56,82717,3374,64287,Education,High,4,21400,Reading,Stocks
