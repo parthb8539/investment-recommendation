@@ -5,4 +5,5 @@ This repository contains the code for an Investment Recommendation System that u
 ## Structure
 - `synthetic_investment_data/`: Contains the dataset.
 - `Main_Hirademy_Project/`: Contains Jupyter notebooks for exploratory data analysis.
+-  `Hirademy_Report/` : Contains Report of the project
 - `README.md`: This file.
